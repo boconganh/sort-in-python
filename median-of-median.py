@@ -1,5 +1,4 @@
 import random
-import time
 
 def median5(a): #find median size<=5
 	n=len(a)
