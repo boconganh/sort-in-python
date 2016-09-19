@@ -6,3 +6,4 @@ Some sorting algorithms
  - insert sort
  - merge sort
  - quick sort
+ - median of median
