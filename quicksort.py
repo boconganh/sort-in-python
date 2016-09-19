@@ -2,8 +2,8 @@ import random
 
 
 def partition(A,low,high):
-	"""
-	for random quick_sort
+
+	#for random quick_sort
 	index=random.randrange(low,high)
 	pivot=A[index]
 	A[index],A[high]=A[high],A[index]
